@@ -10,7 +10,8 @@ public class home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        //teste de Commit e Push Git
+        //teste de Commit e Push Git 
+        //TEste 2
 
     }
 }
